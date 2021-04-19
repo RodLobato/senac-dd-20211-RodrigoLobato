@@ -1,0 +1,4 @@
+use=developer
+password=@Rod104944
+dburl=jdbc:mysql://localhost:3306/senac-dd-20211_RodrigoLobato
+useSSL=false
